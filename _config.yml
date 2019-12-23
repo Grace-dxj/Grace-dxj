@@ -10,7 +10,7 @@ google_analytics: false #if set to "true" modify the google_analytycs.html, set 
 
 # Links settings
 links:
-  - name:         Resume
+  - name:         Home
     url:          https://www.super-resume.com/editor.html?resume=3536479
   - name:         About
     url:          /about
