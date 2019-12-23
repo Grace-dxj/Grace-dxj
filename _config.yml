@@ -10,13 +10,13 @@ google_analytics: false #if set to "true" modify the google_analytycs.html, set 
 
 # Links settings
 links:
-  - name:         Home
-    url:          /
+  - name:         Resume
+    url:          https://www.super-resume.com/editor.html?resume=3536479
   - name:         About
     url:          /about
     external:     false
-  - name:         Archive
-    url:          /archive
+  - name:         Email
+    url:          2667878530@qq.com
     external:     false
     external:     false
   - name:         GitHub
