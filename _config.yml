@@ -5,18 +5,18 @@ description: > # this means to ignore newlines until "baseurl:"
 url: #https://grace-dxj.github.io/Grace-dxj/
 baseurl: # the sub-path of your site, e.g. /blog/
 
-disqus_shortname: kuoa # leave empty if you don't want comments
+disqus_shortname: Grace # leave empty if you don't want comments
 google_analytics: false #if set to "true" modify the google_analytycs.html, set to false otherwise
 
 # Links settings
 links:
   - name:         Resume
-    url:          https://github.com/Grace-dxj/Vitae/blob/master/1610403121%E6%9D%9C%E6%99%93%E5%A8%9F%E7%AE%80%E5%8E%86.pdf
-  - name:         About
-    url:          /about
+    url:         https://github.com/Grace-dxj/Vitae
+  - name:         Weibo
+    url:          https://weibo.com/3556178997/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1
     external:     false
   - name:         Email
-    url:          https://mail.qq.com/cgi-bin/frame_html?sid=ZuRnZPyLrKiomwRa&r=dbadd265dcce67dd67f5bc51902eb983
+    url:         www.2667878530@qq.com
     external:     false
     external:     false
   - name:         GitHub
