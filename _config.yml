@@ -10,10 +10,9 @@ google_analytics: false #if set to "true" modify the google_analytycs.html, set 
 
 # Links settings
 links:
-  - name:         Resume
-    url:         https://github.com/Grace-dxj/Vitae
+  - 
   - name:         QQ Zone
-    url:          https://user.qzone.qq.com/2667878530/infocenter
+    url:          https://user.qzone.qq.com/2667878530/main
     external:     true
   - name:         Email
     url:         2667878530@qq.com
