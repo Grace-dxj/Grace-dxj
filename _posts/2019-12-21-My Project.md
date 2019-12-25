@@ -11,6 +11,8 @@ tags: project
 
 ### WELCOM!!!!
 
+### An Intro to Git and Github for Beginners
+
 - #### **<a href="https://github.com/Grace-dxj/My-Project/blob/master/My%20Project.pdf">This is translation project</a>**
 
 - #### **<a href="https://medivh-zhuhongyu.github.io/group-1/">click here, it's gitbook.</a>**
