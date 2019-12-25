@@ -11,13 +11,7 @@ google_analytics: false #if set to "true" modify the google_analytycs.html, set 
 # Links settings
 links:
   - 
-  - name:         QQ Zone
-    url:          https://user.qzone.qq.com/2667878530/main
-    external:     true
-  - name:         Email
-    url:         2667878530@qq.com
-    external:     true
-    external:     true
+  - 
   - name:         GitHub
     url:          https://github.com/Grace-dxj
     external:     true
